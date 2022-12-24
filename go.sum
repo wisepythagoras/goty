@@ -1,7 +1,5 @@
 github.com/42LoCo42/go-zeolite v0.0.0-20221012103015-4dbc28d02770 h1:O28uEHDfwXt8Yewr3MEiqOLRj7Xu9Rwv0mP4eSLBZrs=
 github.com/42LoCo42/go-zeolite v0.0.0-20221012103015-4dbc28d02770/go.mod h1:/ssk1oZyowk8Lwsh6iC/Pl26Sxv3nLAD5DVJMKNKDFY=
-github.com/cossacklabs/themis/gothemis v0.14.0 h1:b+LU09HBcmhmGP444gz7P64Nfrd7b/Sj1s+9Ibt4PkU=
-github.com/cossacklabs/themis/gothemis v0.14.0/go.mod h1:6fvSguI8fMmChlgdG0cZywirhtTsRmp+/PsCWLDUID8=
 github.com/creack/pty v1.1.18 h1:n56/Zwd5o6whRC5PMGretI4IdRLlmBXYNjScPaBgsbY=
 github.com/creack/pty v1.1.18/go.mod h1:MOBLtS5ELjhRRrroQr9kyvTxUAFNvYEK993ew/Vr4O4=
 golang.org/x/sys v0.3.0 h1:w8ZOecv6NaNa/zC8944JTU3vz4u6Lagfk4RPQxv92NQ=
